@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Face Spoofing Detection System Poster.png" />
+</p>
+
 # 🎭 Face Spoof Detection: The Real vs Fake Face Detective! 🔍
 
 <div align="center">
